@@ -15,7 +15,7 @@
 - https://medium.com/codex/making-a-rts-game-50-implementing-a-technology-tree-1-3-unity-c-1c516ba78712
 
 ### SRP
-- https://medium.com/arnoldcode-academy/unity-solid-s-single-responsibility-6707d9569e73
+- https://technoteswowowow.medium.com/what-does-srp-mean-in-unity-ae497c29899a
 
 ### Addressable
 - https://medium.com/chenjd-xyz/a-solution-to-sprite-atlas-are-duplicated-into-other-asset-bundles-d50a2abf1ead
@@ -41,6 +41,33 @@
 ### Inspector
 - https://forum.unity.com/threads/solved-how-to-get-rotation-value-that-is-in-the-inspector.460310/
 
+### Cooldown timer
+- https://www.jonathanyu.xyz/2020/01/21/unity-cooldown-timer-script-tutorial/
+
+### Feature flag
+- https://martinfowler.com/articles/feature-toggles.html
+
+### Save
+- https://medium.com/@eveciana21/saving-and-loading-in-unity-7b7597a370bf
+
+### Pause
+- https://medium.com/@christopherguyton87/pausing-your-game-without-using-timescale-unity-ad5b6b7cab38
+
+### SceneTransition
+- https://medium.com/codex/make-smooth-scene-transitions-in-unity-c-a1eba3ec1024
+
+### Unity marshaling
+- https://blog.unity.com/engine-platform/making-string-marshaling-safe-for-coreclr-garbage-collector
+
+### Unity Optimization
+- https://blog.unity.com/kr/games/pick-up-these-helpful-tips-on-advanced-profiling
+- https://blog.unity.com/engine-platform/10000-update-calls
+
+### UnityRandom
+- https://medium.com/@report.vector.focus/unity-random-seed-b372dd0907af
+
+### ETC
+- https://github.com/JetBrains/resharper-unity/wiki/Possible-unintended-bypass-of-lifetime-check-of-underlying-Unity-engine-object
 
 ## Design pattern
 
@@ -62,6 +89,7 @@
 - https://gameprogrammingpatterns.com/state.html
 - http://blog.nuclex-games.com/tutorials/cxx/game-state-management/
 - https://forum.unity.com/threads/scalable-hierarchical-state-machine-for-in-game-characters-player-and-ai.1030096/
+- https://technoteswowowow.medium.com/example-game-manager-class-21c245e2156d
 
 ### Command pattern
 - https://medium.com/@swiftroll3d/command-pattern-allocation-free-in-c-unity-godot-without-memory-allocations-1b60cfcbd4e2
@@ -74,10 +102,18 @@
 
 ### Repository pattern
 - https://medium.com/@kerimkkara/implementing-the-repository-pattern-in-c-and-net-5fdd91950485
+- https://medium.com/@iamprovidence/is-repository-an-anti-pattern-6aba7422fa48
+
+### VisitorPattern
+- https://medium.com/@devleaderca/examples-of-the-visitor-pattern-in-c-a-practical-guide-3993b301738f
+
+### PipelinePattern
+- https://levelup.gitconnected.com/design-patterns-implementing-pipeline-design-pattern-824bd2d42bab
 
 ### Dependency injection
 - https://medium.com/@ceffa93/dependency-injection-for-games-519cf2a545ee
 - https://artemasemenov.medium.com/mastering-dependency-injection-in-c-best-practices-pitfalls-and-future-trends-61189ad97f25
+- https://medium.com/@pedrodacruzmachado/using-the-dependency-stack-to-manage-uncertainty-in-game-development-a4be45804dba
 
 ### Dependency inversion
 - https://blog.devgenius.io/net-c-clean-architecture-dependency-inversion-principle-d2d661c3f74d
@@ -117,11 +153,38 @@
 - https://forum.unity.com/threads/inventory-item-system.1453261/
 - https://www.youtube.com/watch?v=v4Xqj0sanyU
 
+### Skill/Ability
+- https://forum.unity.com/threads/theres-no-good-way-to-build-an-ability-skill-system-with-unity-tools.886981/
+- https://forum.unity.com/threads/gameplay-ability-system-in-a-data-oriented-approach.1229973/
+- https://www.pixelcrushers.com/data-driven-skill-system/
+- https://forum.unity.com/threads/design-and-architecture-questions-on-top-down-shooter-game.1430542/
+- https://gamesarchitecture.com/painless-way-of-programming-game-modes-and-skills-strategy-pattern/
+- https://codereview.stackexchange.com/questions/185117/ability-system-implementation
+- https://www.youtube.com/watch?v=yjZsAl13trk
+- https://blog.devgenius.io/strategy-pattern-in-unity-b82065aaa969
+- https://github.com/DylanYasen/unity-ability-system/blob/master/Assets/Scripts/Ability.cs
+
 ### Inventory
 - https://rito15.github.io/posts/unity-study-rpg-inventory/
 - https://github.com/DylanYasen/unity-item-system/blob/master/Assets/Src/Runtime/Inventory/Scripts/Inventory.cs
 - https://levelup.gitconnected.com/scriptable-objects-in-unity-36eacf20aa36
 - https://educationecosystem.com/ramondev/ljJ76-how-to-create-a-top-down-rpg-in-unity-inventory-items
+
+### Path finding
+- https://discussions.unity.com/t/unit-local-avoidance-in-rts-type-games/116733/4
+- https://www.reddit.com/r/unity/comments/rnmqmz/2d_pathfinding_resource_available_for_free_a/
+- https://arongranberg.com/astar/documentation/beta/graphtypes.html
+- https://www.reddit.com/r/Unity3D/comments/afqtqq/2d_ai_with_pathfinding/
+- https://www.redblobgames.com/pathfinding/a-star/introduction.html
+- https://github.com/SebLague/Pathfinding-2D
+- https://www.jgallant.com/nodal-pathfinding-in-unity-2d-with-a-in-non-grid-based-games/
+- https://gamedev.stackexchange.com/questions/58963/pathfinding-with-2d-non-grid-based-movement-over-uniform-terrain
+- http://idm-lab.org/bib/abstracts/papers/jair10b.pdf
+- https://gpfatp.blogspot.com/2019/01/unity-2d-path-finding-algorithm.html
+- https://www.youtube.com/watch?v=jvtFUfJ6CP8
+- https://pavcreations.com/tilemap-based-a-star-algorithm-implementation-in-unity-game/
+- https://medium.com/daily-unity/2d-pathfinding-in-unity-9503b546ef78
+- https://forum.unity.com/threads/2d-navmesh-plus-components-and-extensions-system.1280117/
 
 ### Queued item production
 - https://medium.com/codex/make-your-own-queued-item-production-ui-in-unity-c-4ea6fd403a1d
@@ -141,6 +204,7 @@
 
 ### Game studio
 - https://medium.com/super-jump/how-to-successfully-take-your-game-into-early-access-d171e7334c7d
+- https://medium.com/@anulagarwal12/i-interview-solo-game-devs-who-make-it-big-here-are-all-the-interviews-i-have-conducted-0f3c505519bc
 
 ## Graphics, Engine
 
@@ -152,6 +216,9 @@
 
 
 ## Language
+
+### Closure
+- https://medium.com/@mark.pelf/closures-in-c-demystified-ba989651080d
 
 ### C#
 - https://medium.com/@iammanolov98/software-interview-question-task-vs-thread-in-net-d5d3b805eaf3
@@ -183,11 +250,18 @@
 - https://minidump.net/memory-alignment-of-doubles-in-c-1d13e3ce741
 - https://blog.logrocket.com/performance-unity-async-await-tasks-coroutines-c-job-system-burst-compiler/
 - https://medium.com/my-games-company/the-complete-asynchronous-programming-primer-for-unity-e1b00d26e96b
+- https://medium.com/c-sharp-progarmming/mastering-your-c-conversions-778f7e20704a
+- https://medium.com/@kamaleshs48/difference-between-delegates-action-and-func-in-c-fbaca1ad1983
+- https://medium.com/@vndpal/all-you-need-to-know-about-tuples-in-c-82928ad47796
+- https://mareks-082.medium.com/dark-side-of-the-primary-constructors-in-c-12-b9d75855d4df
+- https://www.sysnet.pe.kr/2/0?pageno=52&wtype=1
 
 ### LINQ
 - https://mabroukmahdhi.medium.com/linq-in-c-where-magic-meets-practicality-and-they-both-have-coffee-d5f4b6582a8d
 - https://antao-almada.medium.com/linq-internals-speed-optimizations-1d99b53750bb
 
+### C# Attributes
+- https://medium.com/@kenslearningcurve/create-your-own-c-attributes-fef81ed50aac
 
 ## Programming
 
@@ -195,6 +269,8 @@
 - https://medium.com/arnoldcode-academy/unity-solid-principles-solid-l-3ee2d05169f7
 - https://betterprogramming.pub/liskov-substitution-principle-isnt-complex-just-give-it-a-try-d4f84093ca5f
 - https://medium.com/bytehide/liskov-substitution-principle-in-csharp-992876a8b66c
+- https://medium.com/@lucas.and227/the-solid-principles-in-c-319755838805
+- https://medium.com/arnoldcode-academy/unity-solid-s-single-responsibility-6707d9569e73
 
 ### Composition over inheritance
 - https://medium.com/c-sharp-progarmming/the-power-of-c-interfaces-for-behaviour-composition-b73fd4ee7c14
@@ -202,14 +278,22 @@
 ### Algorithm
 - https://andrewzuo.com/another-idiot-boldly-proclaims-that-they-cant-solve-a-basic-programming-problem-4bbdf4eeb86c
 
-### Software architecture
+### Software, architecture
 - https://mabroukmahdhi.medium.com/the-standard-by-hassan-habib-a-dive-into-modern-software-architecture-principles-84ee92395a9c
 - https://unity.com/how-to/how-architect-code-your-project-scales
 - https://blog.extrawurst.org/gamedev/unity/programming/2020/11/11/scalable-unity-architecture.html
 - https://jarlowrey.com/blog/game-architecture
+- https://medium.com/@eiki1212/5-principles-of-software-estimation-c6b894359af1
+- https://medium.com/@techworldwithmilan/most-common-software-architecture-styles-86881d779683
+- https://medium.com/@kamaleshs48/clean-architecture-net-core-all-you-need-to-know-2fb441364b15
+
+### Computer
+- https://ricomariani.medium.com/virtual-memory-segments-paging-and-big-pages-2a407b33a5b4
 
 ### Clean Code
 - https://medium.com/@kenslearningcurve/writing-clean-code-775c2dff07bd
+- https://medium.com/@kerimkkara/the-art-of-code-refactoring-in-c-d02f0346a1dd
+- https://levelup.gitconnected.com/mastering-clean-code-in-game-development-a-developers-guide-f317d62a6440
 
 ### Functional Programming
 - https://medium.com/codex/async-streams-in-c-a4edaa78094f
@@ -220,6 +304,15 @@
 ### Git
 - https://medium.com/@sreekanth.thummala/choosing-the-right-git-branching-strategy-a-comparative-analysis-f5e635443423
 
+### TechLead
+- https://medium.com/beyond-the-code-by-typo/tech-leads-guide-to-understanding-the-role-and-responsibilities-b9631ba420ca
+
+### Two factor authentication
+- https://blog.stackademic.com/implementing-two-factor-authentication-2fa-in-c-dcc03b93f8ce
+
+### CodeReview
+- https://arminnorouzi.medium.com/googles-code-review-process-dd8bff262df
+
 ### ETC
 - https://betterprogramming.pub/just-write-dumb-boring-predictable-code-91279a969b42
 - https://alex-omeyer.medium.com/how-to-build-a-culture-of-code-quality-c10c1d648cd5
@@ -227,6 +320,8 @@
 - https://blog.stackademic.com/understanding-the-difference-between-dependency-inversion-and-dependency-injection-in-c-c9934ee7f6f5
 - https://medium.com/twosapp/my-favorite-programming-books-for-learning-software-development-a5c280b73354
 - https://davidgoudet.medium.com/this-is-why-i-didnt-accept-you-as-a-senior-software-engineer-c77fe5a0bc9
+- https://levelup.gitconnected.com/lessons-learned-from-my-mentor-d10058a462a2
+- https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21
 
 
 ## Project, Self development
@@ -234,12 +329,28 @@
 ### Leadership
 - https://kimmalonescott.medium.com/7-things-to-know-about-1-1-meetings-that-will-make-you-a-better-boss-a58be0567ce6
 - https://medium.com/@mike.s.chambers/managing-a-low-performer-71947ab056c5
+- https://medium.com/@iamgautamkumar/daily-stand-ups-are-waste-of-time-31c59c6e96e1
+
+### GoogleSpreadsheet
+- https://medium.com/my-games-company/avoid-the-cell-and-table-swamp-maintaining-game-balance-with-ease-9f3e90bf45ac
+
+### User feedback
+- https://medium.com/@anulagarwal12/i-curated-a-list-of-subreddits-that-can-provide-feedback-on-your-game-here-you-go-2cec9ac66e7d
 
 ### Agile
 - https://medium.com/@mbianchidev/scrum-sucks-9960011fc5cf
 
+### Essay
+- https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428
 
-## Subscribtion
+### ETC
+- https://medium.com/practice-in-public/how-to-be-in-the-top-1-in-2024-92266c1fe7ab
+- https://medium.com/accelerated-intelligence/in-1911-an-influential-expert-revealed-a-forgotten-science-of-how-to-be-50x-more-productive-8828f86eb1c9
+- https://medium.com/symbiotica/spending-time-alone-in-nature-is-good-for-your-mental-and-emotional-health-1304149cd131
+
+
+## Subscribtions
 - https://markpelf.com/
 - https://giannisakritidis.com/
 - https://www.youtube.com/@LlamAcademy/videos
+- https://mdwdotla.medium.com/
