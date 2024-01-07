@@ -23,14 +23,12 @@
 - https://blog.unity.com/kr/technology/tales-from-the-optimization-trenches-saving-memory-with-addressables
 - https://blog.unity.com/engine-platform/addressables-planning-and-best-practices
 
-- https://medium.com/geekculture/how-to-do-visual-debugging-editing-using-gizmos-in-unity-c-e3b8ea711b30
-- https://medium.com/arnoldcode-academy/unity-solid-principles-dependency-inversion-675d7d11461b
-
 ### UnityWebRequest
 - https://blog.devgenius.io/game-dev-unity-c-what-are-unity-web-requests-38f943cbe831
 
-### Debug console
+### Editor
 - https://medium.com/c-sharp-progarmming/making-a-rts-game-32-creating-a-debug-console-unity-c-841f0fb97dda
+- https://medium.com/geekculture/how-to-do-visual-debugging-editing-using-gizmos-in-unity-c-e3b8ea711b30
 
 ### Animation
 - https://media.rokoko.com/An-introduction-to-unity-animator-controller-rokoko-ebook.pdf
@@ -185,6 +183,7 @@
 
 ### Dependency inversion
 - https://blog.devgenius.io/net-c-clean-architecture-dependency-inversion-principle-d2d661c3f74d
+- https://medium.com/arnoldcode-academy/unity-solid-principles-dependency-inversion-675d7d11461b
 
 ### ETC
 - https://medium.com/@kenslearningcurve/design-patterns-vs-design-principles-d1c9fe032dc
