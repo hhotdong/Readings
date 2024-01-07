@@ -277,7 +277,11 @@
 ## Graphics, Engine
 
 ### GameEngine
+- https://www.youtube.com/@TheCherno
 - https://medium.com/geekculture/how-to-make-your-own-game-engine-and-why-ddf0acbc5f3
+
+### Physics
+- https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs
 
 ### Shader
 - https://medium.com/geekculture/shader-journey-0-introduction-78367f7b7252
@@ -424,3 +428,5 @@
 - https://giannisakritidis.com/
 - https://www.youtube.com/@LlamAcademy/videos
 - https://mdwdotla.medium.com/
+- https://www.computerenhance.com/
+- https://www.youtube.com/@simondev758
