@@ -34,6 +34,48 @@
 
 ### Animation
 - https://media.rokoko.com/An-introduction-to-unity-animator-controller-rokoko-ebook.pdf
+- https://claudiograssi.medium.com/unity3d-basics-animating-sprites-70bbb22ab436
+- https://www.youtube.com/watch?v=pA67Sb2nPcQ
+- https://www.gamedeveloper.com/programming/2d-animation-methods-in-unity
+
+### FSM
+- https://www.theappguruz.com/blog/ai-implementation-using-finite-state-machine-model
+- https://faramira.com/enemy-behaviour-with-finite-state-machine-using-csharp-delegates-in-unity/
+- https://pavcreations.com/finite-state-machine-for-ai-enemy-controller-in-2d/
+- https://www.youtube.com/watch?v=HK2gEE1ugZk
+- https://github.com/lordofduct/spacepuppy-unity-framework/blob/master/SpacepuppyBase/StateMachine/StateMachine.cs
+- https://forum.unity.com/threads/game-state.1261181/
+- https://www.youtube.com/watch?v=V75hgcsCGOM
+- https://medium.com/@bada/functional-unity-architecture-a-developers-guide-359e5111c5c2
+- https://unity.com/how-to/develop-modular-flexible-codebase-state-programming-pattern
+- https://www.youtube.com/watch?v=nnrOhb5UdRc
+- https://unity3d.college/2017/05/26/unity3d-design-patterns-state-basic-state-machine/
+- https://mracipayam.medium.com/introduction-to-the-unity-state-machine-pattern-ad3bce7d987c
+- https://vallista.tistory.com/entry/Unity3D-state-pattern-source-with-control-in-Unity-%EC%9C%A0%EB%8B%88%ED%8B%B0%EC%97%90%EC%84%9C-%EC%83%81%ED%83%9C-%ED%8C%A8%ED%84%B4-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%B0%8F-%EC%BB%A8%ED%8A%B8%EB%A1%A4
+- https://gameprogrammingpatterns.com/state.html
+- https://forum.unity.com/threads/game-state.1261181/
+- https://www.youtube.com/watch?v=B2KvSQNVYxA
+- https://github.com/luisoliveiras/scriptable-states
+- https://www.jacksondunstan.com/articles/3137
+- https://www.reddit.com/r/Unity3D/comments/fwx6su/proper_game_state_and_ui_management/
+
+### Unity Job System
+- https://blog.unity.com/engine-platform/improving-job-system-performance-2022-2-part-1
+- https://blog.unity.com/engine-platform/improving-job-system-performance-2022-2-part-2
+- https://github.com/BrianWill/LearnUnity/blob/master/ecs-jobs/jobs.md
+- https://www.youtube.com/watch?v=oWFJl56IL4Y
+- https://gamedev.stackexchange.com/questions/201479/how-to-use-unity-job-system-to-do-background-work-spanning-multiple-frames
+- https://www.youtube.com/playlist?list=PLX2vGYjWbI0RuXtGMYKqChoZC2b-H4tck
+- https://docs.unity3d.com/2019.4/Documentation/Manual/JobSystemSchedulingJobs.html
+- https://www.jacksondunstan.com/articles/4796
+- https://realerichu.medium.com/improve-performance-with-c-job-system-and-burst-compiler-in-unity-eecd2a69dbc8
+- https://coffeebraingames.wordpress.com/2023/05/22/how-to-use-raycastcommand/
+- https://allenchou.net/2021/05/delayed-result-gathering/
+- https://github.com/LotteMakesStuff/SimplePhysicsDemo/blob/master/Assets/SimpleJobifiedPhysics.cs
+- https://youtu.be/dHLNqbKrJdg?feature=shared
+
+### Physics
+- https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/physicstutorials/6accelerationstructures/Physics%20-%20Spatial%20Acceleration%20Structures.pdf
 
 ### Unit testing
 - https://medium.com/geekculture/c-unit-testing-in-unity-80d8bbfc62bb
@@ -59,12 +101,36 @@
 ### Unity marshaling
 - https://blog.unity.com/engine-platform/making-string-marshaling-safe-for-coreclr-garbage-collector
 
-### Unity Optimization
+### Optimization
 - https://blog.unity.com/kr/games/pick-up-these-helpful-tips-on-advanced-profiling
 - https://blog.unity.com/engine-platform/10000-update-calls
+- https://forum.unity.com/threads/optimizing-enemy-detection-process.745772/
+- https://www.reddit.com/r/howdidtheycodeit/comments/y757yg/how_does_vampire_survivors_handle_so_many_enemies/
+- https://bagoum.medium.com/devlog-002-graphics-drawmeshinstancedindirect-a4024e05737f
+- https://forum.unity.com/threads/gpu-instancing-in-the-2d-renderer.900917/
+- https://forum.unity.com/threads/srp-batcher-and-gpu-instancing.833362/
+- https://github.com/ownself/UnitySpriteGPUInstancing
+- https://darkcatgame.tistory.com/140
+- https://forum.unity.com/threads/srp-batcher-spriterenderer.1441009/
+- https://gamedev.center/best-optimization-tips-by-unity-engineers-at-unite/
+- https://llmagicll.medium.com/optimizing-ui-performance-in-unity-deep-dive-into-layoutelement-and-layoutgroup-components-b6a575187ee4
+- https://medium.com/@hardikparmarexpert/c-job-system-and-burst-compiler-unity-bb6bfb1f4c8a
 
 ### UnityRandom
 - https://medium.com/@report.vector.focus/unity-random-seed-b372dd0907af
+
+### MiniMap
+- https://timcoster.com/2020/03/25/unity-enemy-radar-tutorial/
+- https://medium.com/codex/making-a-rts-game-13-adding-a-minimap-and-fog-of-war-1-3-unity-c-1a7e42bbf9cb
+- https://www.reddit.com/r/Unity3D/comments/k0hcxk/10_steps_to_create_radar_in_unity/
+- https://www.youtube.com/watch?v=J0gmrgpx6gk
+
+### Object pool
+- https://monoflauta.com/2021/07/04/object-pool-using-generics-and-factory-method-with-an-unity-example/
+- https://www.youtube.com/watch?v=mRh2DA1Uzo8
+- https://thegamedev.guru/unity-cpu-performance/object-pooling/
+- https://onewheelstudio.com/blog/2022/1/17/object-pooling-20
+- https://unity.com/how-to/use-object-pooling-boost-performance-c-scripts-unity
 
 ### ETC
 - https://github.com/JetBrains/resharper-unity/wiki/Possible-unintended-bypass-of-lifetime-check-of-underlying-Unity-engine-object
