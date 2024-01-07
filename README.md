@@ -115,6 +115,7 @@
 - https://gamedev.center/best-optimization-tips-by-unity-engineers-at-unite/
 - https://llmagicll.medium.com/optimizing-ui-performance-in-unity-deep-dive-into-layoutelement-and-layoutgroup-components-b6a575187ee4
 - https://medium.com/@hardikparmarexpert/c-job-system-and-burst-compiler-unity-bb6bfb1f4c8a
+- https://medium.com/lonely-vertex-development/how-we-optimised-our-scripts-in-unity-447924863b3a
 
 ### UnityRandom
 - https://medium.com/@report.vector.focus/unity-random-seed-b372dd0907af
@@ -146,6 +147,7 @@
 - https://blog.ploeh.dk/2015/10/26/service-locator-violates-encapsulation/
 - https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/
 - https://gameprogrammingpatterns.com/service-locator.html
+- https://github.com/brunomikoski/ServiceLocator
 
 ### State pattern
 - https://forum.unity.com/threads/is-this-game-state-design-advisable.405431/
@@ -362,6 +364,7 @@
 - https://levelup.gitconnected.com/mastering-clean-code-in-game-development-a-developers-guide-f317d62a6440
 
 ### Functional Programming
+- https://medium.com/@bada/functional-unity-architecture-a-developers-guide-359e5111c5c2
 - https://medium.com/codex/async-streams-in-c-a4edaa78094f
 
 ### MultiThreading
@@ -416,6 +419,7 @@
 
 
 ## Subscribtions
+- https://www.jacksondunstan.com
 - https://markpelf.com/
 - https://giannisakritidis.com/
 - https://www.youtube.com/@LlamAcademy/videos
