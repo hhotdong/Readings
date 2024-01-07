@@ -334,6 +334,9 @@
 ### C# Attributes
 - https://medium.com/@kenslearningcurve/create-your-own-c-attributes-fef81ed50aac
 
+### C++ dynamic
+- https://accu.org/journals/overload/21/115/fabijanic_1855/
+
 ## Programming
 
 ### SOLID
