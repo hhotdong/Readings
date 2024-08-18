@@ -432,3 +432,4 @@
 - https://mdwdotla.medium.com/
 - https://www.computerenhance.com/
 - https://www.youtube.com/@simondev758
+- https://edykim.com/ko/tag/dev-life/
